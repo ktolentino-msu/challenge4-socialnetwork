@@ -15,7 +15,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 8px 16px;
+    padding: 8px 40px;
 }
 
 main {
@@ -51,8 +51,10 @@ ul {
 }
 
 .profile-info {
-    max-width: 400px;
+    width: 30%;
     min-width: 320px;
+    max-width: 400px;
+    padding: 40px;
 }
 
 .posts {
