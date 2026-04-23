@@ -61,3 +61,8 @@ ul {
     flex: 1;
     padding: 24px;
 }
+
+h3 {
+    font-size: 12px;
+    text-transform: lowercase;
+}
